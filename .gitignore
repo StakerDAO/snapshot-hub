@@ -1,3 +1,6 @@
+# Ignore secrests
+secrets.json
+
 .DS_Store
 node_modules
 /dist
@@ -20,3 +23,5 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+.openzeppelin/.session

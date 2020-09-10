@@ -1,0 +1,10 @@
+{
+  "stakerdao": {
+    "key": "stakerdao",
+    "symbol": "STKR",
+    "name": "StakerDAO",
+    "token": "0xba100000625a3754423978a60c9317c58a424e3D",
+    "verified": [],
+    "visible": true
+  }
+}
